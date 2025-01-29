@@ -110,7 +110,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-6">
-      <h1 className="text-3xl font-bold mb-4 text-blue-500">Blockchain Task Manager</h1>
+      <h1 className="text-3xl font-bold mb-4 text-blue-500">Tcrown Task Manager</h1>
 
       {!isActiveWallet ? (
         <button
